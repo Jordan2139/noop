@@ -21,11 +21,11 @@
       "versions": [
         {
           "version": "9.0.3",
-          "buildVersion": "208",
+          "buildVersion": "209",
           "date": "2026-07-22",
-          "localizedDescription": "NOOP 9.0.3 test build with a menstrual cycle card on Home and the local cycle tracker.",
-          "downloadURL": "https://github.com/Jordan2139/noop/releases/download/test-cycle-home-card/NOOP-ios-unsigned-v9.0.3.ipa",
-          "size": 15058105,
+          "localizedDescription": "NOOP 9.0.3 test build 209 with the menstrual cycle Home card and reviewed localization updates.",
+          "downloadURL": "https://github.com/Jordan2139/noop/releases/download/test-cycle-home-card-build-209/NOOP-ios-unsigned-v9.0.3.ipa",
+          "size": 15058209,
           "minOSVersion": "17.0"
         },
         {
@@ -1318,11 +1318,11 @@
         }
       },
       "version": "9.0.3",
-      "buildVersion": "208",
+      "buildVersion": "209",
       "versionDate": "2026-07-22",
-      "versionDescription": "NOOP 9.0.3 test build with a menstrual cycle card on Home and the local cycle tracker.",
-      "downloadURL": "https://github.com/Jordan2139/noop/releases/download/test-cycle-home-card/NOOP-ios-unsigned-v9.0.3.ipa",
-      "size": 15058105,
+      "versionDescription": "NOOP 9.0.3 test build 209 with the menstrual cycle Home card and reviewed localization updates.",
+      "downloadURL": "https://github.com/Jordan2139/noop/releases/download/test-cycle-home-card-build-209/NOOP-ios-unsigned-v9.0.3.ipa",
+      "size": 15058209,
       "minOSVersion": "17.0"
     }
   ],
