@@ -31,6 +31,7 @@ enum class TodaySection(val raw: String, val title: String) {
     HEART_RATE("heartRate", "Heart Rate"),
     RECOVERY_VITALS("recoveryVitals", "Recovery Vitals"),
     YOUR_CARDS("yourCards", "Your Cards"),
+    MENSTRUAL_CYCLE("menstrualCycle", "Menstrual Cycle"),
     JOURNAL("journal", "Journal");
 
     companion object {
@@ -40,7 +41,7 @@ enum class TodaySection(val raw: String, val title: String) {
          *  journal widget (#656) is last by default, where it was first added, above the data-sources card. */
         val defaultOrder: List<TodaySection> = listOf(
             HERO, LIVE_SESSION, SYNTHESIS, KEY_METRICS, WORKOUTS, HEART_RATE, RECOVERY_VITALS, YOUR_CARDS,
-            JOURNAL,
+            MENSTRUAL_CYCLE, JOURNAL,
         )
     }
 }

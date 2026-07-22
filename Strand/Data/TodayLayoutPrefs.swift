@@ -27,6 +27,7 @@ enum TodaySection: String, CaseIterable, Identifiable {
     case heartRate
     case recoveryVitals
     case yourCards
+    case menstrualCycle
     case journal
 
     var id: String { rawValue }
@@ -42,6 +43,7 @@ enum TodaySection: String, CaseIterable, Identifiable {
         case .heartRate:      return String(localized: "Heart Rate")
         case .recoveryVitals: return String(localized: "Recovery Vitals")
         case .yourCards:      return String(localized: "Your Cards")
+        case .menstrualCycle: return String(localized: "Menstrual Cycle")
         case .journal:        return String(localized: "Journal")
         }
     }
@@ -50,7 +52,7 @@ enum TodaySection: String, CaseIterable, Identifiable {
     /// widget (#656) is last by default, where it was first added, above the data-sources card.
     static let defaultOrder: [TodaySection] = [
         .hero, .liveSession, .synthesis, .keyMetrics, .workouts, .heartRate, .recoveryVitals, .yourCards,
-        .journal,
+        .menstrualCycle, .journal,
     ]
 }
 

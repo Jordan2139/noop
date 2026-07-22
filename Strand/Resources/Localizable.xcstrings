@@ -168186,6 +168186,69 @@
         "es": { "stringUnit": { "state": "translated", "value": "Aún no se ha registrado ningún inicio del período." } },
         "fr": { "stringUnit": { "state": "translated", "value": "Aucun début de règles enregistré pour le moment." } }
       }
+    },
+    "Menstrual Cycle": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "Menstruationszyklus" } },
+        "es": { "stringUnit": { "state": "translated", "value": "Ciclo menstrual" } },
+        "fr": { "stringUnit": { "state": "translated", "value": "Cycle menstruel" } }
+      }
+    },
+    "Private, on-device tracking": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "Privates Tracking auf dem Gerät" } },
+        "es": { "stringUnit": { "state": "translated", "value": "Seguimiento privado en el dispositivo" } },
+        "fr": { "stringUnit": { "state": "translated", "value": "Suivi privé sur l’appareil" } }
+      }
+    },
+    "Log period starts locally and use them to anchor optional cycle estimates.": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "Periodenbeginne lokal protokollieren und damit optionale Zyklusschätzungen verankern." } },
+        "es": { "stringUnit": { "state": "translated", "value": "Registra localmente el inicio del período y úsalo para anclar estimaciones opcionales del ciclo." } },
+        "fr": { "stringUnit": { "state": "translated", "value": "Enregistrez localement le début des règles pour ancrer des estimations facultatives du cycle." } }
+      }
+    },
+    "Latest period start": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "Letzter Periodenbeginn" } },
+        "es": { "stringUnit": { "state": "translated", "value": "Último inicio del período" } },
+        "fr": { "stringUnit": { "state": "translated", "value": "Dernier début des règles" } }
+      }
+    },
+    "Open tracker": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "Tracker öffnen" } },
+        "es": { "stringUnit": { "state": "translated", "value": "Abrir seguimiento" } },
+        "fr": { "stringUnit": { "state": "translated", "value": "Ouvrir le suivi" } }
+      }
+    },
+    "Set up cycle tracking": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "Zyklustracking einrichten" } },
+        "es": { "stringUnit": { "state": "translated", "value": "Configurar seguimiento del ciclo" } },
+        "fr": { "stringUnit": { "state": "translated", "value": "Configurer le suivi du cycle" } }
+      }
+    },
+    "Log today": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "Heute protokollieren" } },
+        "es": { "stringUnit": { "state": "translated", "value": "Registrar hoy" } },
+        "fr": { "stringUnit": { "state": "translated", "value": "Enregistrer aujourd’hui" } }
+      }
+    },
+    "Logged today": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "Heute protokolliert" } },
+        "es": { "stringUnit": { "state": "translated", "value": "Registrado hoy" } },
+        "fr": { "stringUnit": { "state": "translated", "value": "Enregistré aujourd’hui" } }
+      }
+    },
+    "Preparing cycle tracker…": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "Zyklustracker wird vorbereitet…" } },
+        "es": { "stringUnit": { "state": "translated", "value": "Preparando el seguimiento del ciclo…" } },
+        "fr": { "stringUnit": { "state": "translated", "value": "Préparation du suivi du cycle…" } }
+      }
     }
   },
   "version": "1.0"
