@@ -1709,4 +1709,22 @@
     <string name="l10n_data_sources_screen_last_shared_6bf8389c">"Zuletzt geteilt "</string>
     <string name="l10n_data_sources_screen_sharing_paused_health_connect_permission_was_e8950315">Teilen pausiert – die Health-Connect-Berechtigung wurde entzogen. Zum erneuten Erteilen tippen.</string>
     <string name="l10n_data_sources_screen_last_share_didn_t_finish_noop_0d6c27f0">Letztes Teilen unvollständig – NOOP versucht es automatisch erneut.</string>
+    <string name="cycle_tracker_title">Zyklustracker</string>
+    <string name="cycle_tracker_current_estimate">Aktuelle Schätzung</string>
+    <string name="cycle_tracker_likely_window">Wahrscheinliches Zeitfenster für die Periode: %1$s–%2$s. Dies ist ein Zeitraum, kein festes Datum.</string>
+    <string name="cycle_tracker_log_heading">Periodenbeginn protokollieren</string>
+    <string name="cycle_tracker_already_logged">Bereits protokolliert</string>
+    <string name="cycle_tracker_log_action">Periodenbeginn protokollieren</string>
+    <string name="cycle_tracker_anchor_help">Dieses optionale Datum verankert Zyklustag 1 und wird mit deinem nächtlichen Temperaturmuster abgeglichen.</string>
+    <string name="cycle_tracker_logged_starts">Protokollierte Beginne</string>
+    <string name="cycle_tracker_delete_all">Alle löschen</string>
+    <string name="cycle_tracker_empty">Noch keine Periodenbeginne protokolliert.</string>
+    <string name="cycle_tracker_delete_day">%1$s löschen</string>
+    <string name="cycle_tracker_privacy">Dies bleibt auf deinem Gerät. Es wird nie hochgeladen, synchronisiert oder geteilt.</string>
+    <string name="cycle_tracker_done">Fertig</string>
+    <string name="cycle_tracker_delete_title">Alle protokollierten Periodenbeginne löschen?</string>
+    <string name="cycle_tracker_delete_message">Dadurch wird der auf diesem Gerät gespeicherte Verlauf der Periodenbeginne dauerhaft gelöscht. Der Sensorverlauf bleibt unverändert.</string>
+    <string name="cycle_tracker_cancel">Abbrechen</string>
+    <string name="cycle_tracker_day_single">~Tag %1$d</string>
+    <string name="cycle_tracker_day_range">~Tag %1$d–%2$d</string>
 </resources>

@@ -1718,4 +1718,22 @@
     <string name="l10n_data_sources_screen_last_shared_6bf8389c">"Last shared "</string>
     <string name="l10n_data_sources_screen_sharing_paused_health_connect_permission_was_e8950315">Sharing paused — Health Connect permission was revoked. Tap to re-grant.</string>
     <string name="l10n_data_sources_screen_last_share_didn_t_finish_noop_0d6c27f0">Last share didn’t finish — NOOP will retry automatically.</string>
+    <string name="cycle_tracker_title">Cycle tracker</string>
+    <string name="cycle_tracker_current_estimate">Current estimate</string>
+    <string name="cycle_tracker_likely_window">Likely period window: %1$s–%2$s. This is a range, not a fixed date.</string>
+    <string name="cycle_tracker_log_heading">Log a period start</string>
+    <string name="cycle_tracker_already_logged">Already logged</string>
+    <string name="cycle_tracker_log_action">Log period start</string>
+    <string name="cycle_tracker_anchor_help">This optional date anchors cycle day 1 and is checked against your nightly temperature pattern.</string>
+    <string name="cycle_tracker_logged_starts">Logged starts</string>
+    <string name="cycle_tracker_delete_all">Delete all</string>
+    <string name="cycle_tracker_empty">No period starts logged yet.</string>
+    <string name="cycle_tracker_delete_day">Delete %1$s</string>
+    <string name="cycle_tracker_privacy">This stays on your device. It is never uploaded, never synced, never shared.</string>
+    <string name="cycle_tracker_done">Done</string>
+    <string name="cycle_tracker_delete_title">Delete all logged period starts?</string>
+    <string name="cycle_tracker_delete_message">This permanently removes the on-device period-start history. Sensor history is not changed.</string>
+    <string name="cycle_tracker_cancel">Cancel</string>
+    <string name="cycle_tracker_day_single">~day %1$d</string>
+    <string name="cycle_tracker_day_range">~day %1$d–%2$d</string>
 </resources>

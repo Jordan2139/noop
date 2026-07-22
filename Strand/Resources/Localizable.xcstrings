@@ -168088,6 +168088,104 @@
           }
         }
       }
+    },
+    "Cycle tracker": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "Zyklustracker" } },
+        "es": { "stringUnit": { "state": "translated", "value": "Seguimiento del ciclo" } },
+        "fr": { "stringUnit": { "state": "translated", "value": "Suivi du cycle" } }
+      }
+    },
+    "Delete all logged period starts?": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "Alle protokollierten Periodenbeginne löschen?" } },
+        "es": { "stringUnit": { "state": "translated", "value": "¿Eliminar todos los inicios de período registrados?" } },
+        "fr": { "stringUnit": { "state": "translated", "value": "Supprimer tous les débuts de règles enregistrés ?" } }
+      }
+    },
+    "Delete all period history": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "Gesamten Periodenverlauf löschen" } },
+        "es": { "stringUnit": { "state": "translated", "value": "Eliminar todo el historial del período" } },
+        "fr": { "stringUnit": { "state": "translated", "value": "Supprimer tout l’historique des règles" } }
+      }
+    },
+    "This permanently removes the on-device period-start history. Sensor history is not changed.": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "Dadurch wird der auf diesem Gerät gespeicherte Verlauf der Periodenbeginne dauerhaft gelöscht. Der Sensorverlauf bleibt unverändert." } },
+        "es": { "stringUnit": { "state": "translated", "value": "Esto elimina permanentemente el historial de inicios de período guardado en este dispositivo. El historial del sensor no cambia." } },
+        "fr": { "stringUnit": { "state": "translated", "value": "Cela supprime définitivement l’historique des débuts de règles enregistré sur cet appareil. L’historique du capteur reste inchangé." } }
+      }
+    },
+    "Current estimate": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "Aktuelle Schätzung" } },
+        "es": { "stringUnit": { "state": "translated", "value": "Estimación actual" } },
+        "fr": { "stringUnit": { "state": "translated", "value": "Estimation actuelle" } }
+      }
+    },
+    "~day %lld": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "~Tag %lld" } },
+        "es": { "stringUnit": { "state": "translated", "value": "~día %lld" } },
+        "fr": { "stringUnit": { "state": "translated", "value": "~jour %lld" } }
+      }
+    },
+    "~day %lld-%lld": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "~Tag %1$lld–%2$lld" } },
+        "es": { "stringUnit": { "state": "translated", "value": "~día %1$lld–%2$lld" } },
+        "fr": { "stringUnit": { "state": "translated", "value": "~jour %1$lld–%2$lld" } }
+      }
+    },
+    "Likely period window: %@-%@. This is a range, not a fixed date.": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "Wahrscheinliches Zeitfenster für die Periode: %1$@–%2$@. Dies ist ein Zeitraum, kein festes Datum." } },
+        "es": { "stringUnit": { "state": "translated", "value": "Ventana probable del período: %1$@–%2$@. Es un intervalo, no una fecha fija." } },
+        "fr": { "stringUnit": { "state": "translated", "value": "Période probable entre %1$@ et %2$@. Il s’agit d’une plage, pas d’une date fixe." } }
+      }
+    },
+    "Log a period start": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "Periodenbeginn protokollieren" } },
+        "es": { "stringUnit": { "state": "translated", "value": "Registrar inicio del período" } },
+        "fr": { "stringUnit": { "state": "translated", "value": "Enregistrer le début des règles" } }
+      }
+    },
+    "Already logged": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "Bereits protokolliert" } },
+        "es": { "stringUnit": { "state": "translated", "value": "Ya registrado" } },
+        "fr": { "stringUnit": { "state": "translated", "value": "Déjà enregistré" } }
+      }
+    },
+    "This optional date anchors cycle day 1 and is checked against your nightly temperature pattern.": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "Dieses optionale Datum verankert Zyklustag 1 und wird mit deinem nächtlichen Temperaturmuster abgeglichen." } },
+        "es": { "stringUnit": { "state": "translated", "value": "Esta fecha opcional establece el día 1 del ciclo y se contrasta con tu patrón de temperatura nocturna." } },
+        "fr": { "stringUnit": { "state": "translated", "value": "Cette date facultative définit le jour 1 du cycle et est comparée à votre profil de température nocturne." } }
+      }
+    },
+    "Logged starts": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "Protokollierte Beginne" } },
+        "es": { "stringUnit": { "state": "translated", "value": "Inicios registrados" } },
+        "fr": { "stringUnit": { "state": "translated", "value": "Débuts enregistrés" } }
+      }
+    },
+    "Delete all": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "Alle löschen" } },
+        "es": { "stringUnit": { "state": "translated", "value": "Eliminar todo" } },
+        "fr": { "stringUnit": { "state": "translated", "value": "Tout supprimer" } }
+      }
+    },
+    "No period starts logged yet.": {
+      "localizations": {
+        "de": { "stringUnit": { "state": "translated", "value": "Noch keine Periodenbeginne protokolliert." } },
+        "es": { "stringUnit": { "state": "translated", "value": "Aún no se ha registrado ningún inicio del período." } },
+        "fr": { "stringUnit": { "state": "translated", "value": "Aucun début de règles enregistré pour le moment." } }
+      }
     }
   },
   "version": "1.0"

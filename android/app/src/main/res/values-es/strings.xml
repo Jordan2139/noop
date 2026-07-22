@@ -1694,4 +1694,22 @@
     <string name="l10n_data_sources_screen_last_shared_6bf8389c">"Compartido por última vez "</string>
     <string name="l10n_data_sources_screen_sharing_paused_health_connect_permission_was_e8950315">Uso compartido en pausa: se revocó el permiso de Health Connect. Toca para volver a concederlo.</string>
     <string name="l10n_data_sources_screen_last_share_didn_t_finish_noop_0d6c27f0">El último uso compartido no se completó: NOOP lo reintentará automáticamente.</string>
+    <string name="cycle_tracker_title">Seguimiento del ciclo</string>
+    <string name="cycle_tracker_current_estimate">Estimación actual</string>
+    <string name="cycle_tracker_likely_window">Ventana probable del período: %1$s–%2$s. Es un intervalo, no una fecha fija.</string>
+    <string name="cycle_tracker_log_heading">Registrar inicio del período</string>
+    <string name="cycle_tracker_already_logged">Ya registrado</string>
+    <string name="cycle_tracker_log_action">Registrar inicio del período</string>
+    <string name="cycle_tracker_anchor_help">Esta fecha opcional establece el día 1 del ciclo y se contrasta con tu patrón de temperatura nocturna.</string>
+    <string name="cycle_tracker_logged_starts">Inicios registrados</string>
+    <string name="cycle_tracker_delete_all">Eliminar todo</string>
+    <string name="cycle_tracker_empty">Aún no se ha registrado ningún inicio del período.</string>
+    <string name="cycle_tracker_delete_day">Eliminar %1$s</string>
+    <string name="cycle_tracker_privacy">Esto permanece en tu dispositivo. Nunca se sube, sincroniza ni comparte.</string>
+    <string name="cycle_tracker_done">Listo</string>
+    <string name="cycle_tracker_delete_title">¿Eliminar todos los inicios de período registrados?</string>
+    <string name="cycle_tracker_delete_message">Esto elimina permanentemente el historial de inicios de período guardado en este dispositivo. El historial del sensor no cambia.</string>
+    <string name="cycle_tracker_cancel">Cancelar</string>
+    <string name="cycle_tracker_day_single">~día %1$d</string>
+    <string name="cycle_tracker_day_range">~día %1$d–%2$d</string>
 </resources>

@@ -1694,4 +1694,22 @@
     <string name="l10n_data_sources_screen_last_shared_6bf8389c">"Dernier partage "</string>
     <string name="l10n_data_sources_screen_sharing_paused_health_connect_permission_was_e8950315">Partage en pause — l’autorisation Health Connect a été révoquée. Touchez pour l’accorder à nouveau.</string>
     <string name="l10n_data_sources_screen_last_share_didn_t_finish_noop_0d6c27f0">Le dernier partage n’a pas abouti — NOOP réessaiera automatiquement.</string>
+    <string name="cycle_tracker_title">Suivi du cycle</string>
+    <string name="cycle_tracker_current_estimate">Estimation actuelle</string>
+    <string name="cycle_tracker_likely_window">Période probable entre %1$s et %2$s. Il s’agit d’une plage, pas d’une date fixe.</string>
+    <string name="cycle_tracker_log_heading">Enregistrer le début des règles</string>
+    <string name="cycle_tracker_already_logged">Déjà enregistré</string>
+    <string name="cycle_tracker_log_action">Enregistrer le début des règles</string>
+    <string name="cycle_tracker_anchor_help">Cette date facultative définit le jour 1 du cycle et est comparée à votre profil de température nocturne.</string>
+    <string name="cycle_tracker_logged_starts">Débuts enregistrés</string>
+    <string name="cycle_tracker_delete_all">Tout supprimer</string>
+    <string name="cycle_tracker_empty">Aucun début de règles enregistré pour le moment.</string>
+    <string name="cycle_tracker_delete_day">Supprimer %1$s</string>
+    <string name="cycle_tracker_privacy">Ces données restent sur votre appareil. Elles ne sont jamais téléversées, synchronisées ni partagées.</string>
+    <string name="cycle_tracker_done">Terminé</string>
+    <string name="cycle_tracker_delete_title">Supprimer tous les débuts de règles enregistrés ?</string>
+    <string name="cycle_tracker_delete_message">Cela supprime définitivement l’historique des débuts de règles enregistré sur cet appareil. L’historique du capteur reste inchangé.</string>
+    <string name="cycle_tracker_cancel">Annuler</string>
+    <string name="cycle_tracker_day_single">~jour %1$d</string>
+    <string name="cycle_tracker_day_range">~jour %1$d–%2$d</string>
 </resources>
