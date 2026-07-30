@@ -20,12 +20,12 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "9.2.2",
-          "buildVersion": "213",
-          "date": "2026-07-29",
-          "localizedDescription": "NOOP 9.2.2 test build with current main plus the menstrual cycle tracker and Home card.",
-          "downloadURL": "https://github.com/Jordan2139/noop/releases/download/testing-latest/NOOP-ios-unsigned-v9.2.2.ipa",
-          "size": 16156037,
+          "version": "9.2.3",
+          "buildVersion": "214",
+          "date": "2026-07-30",
+          "localizedDescription": "NOOP 9.2.3 test build synchronized with current main plus the menstrual cycle tracker and Home card.",
+          "downloadURL": "https://github.com/Jordan2139/noop/releases/download/testing-latest/NOOP-ios-unsigned-v9.2.3.ipa",
+          "size": 16178224,
           "minOSVersion": "17.0"
         },
         {
@@ -1344,12 +1344,12 @@
           "NSHealthUpdateUsageDescription": "NOOP writes the metrics it computes from your strap back into Apple Health, on-device and only when you allow it."
         }
       },
-      "version": "9.2.2",
-      "buildVersion": "213",
-      "versionDate": "2026-07-29",
-      "versionDescription": "NOOP 9.2.2 test build with current main plus the menstrual cycle tracker and Home card.",
-      "downloadURL": "https://github.com/Jordan2139/noop/releases/download/testing-latest/NOOP-ios-unsigned-v9.2.2.ipa",
-      "size": 16156037,
+      "version": "9.2.3",
+      "buildVersion": "214",
+      "versionDate": "2026-07-30",
+      "versionDescription": "NOOP 9.2.3 test build synchronized with current main plus the menstrual cycle tracker and Home card.",
+      "downloadURL": "https://github.com/Jordan2139/noop/releases/download/testing-latest/NOOP-ios-unsigned-v9.2.3.ipa",
+      "size": 16178224,
       "minOSVersion": "17.0"
     }
   ],
